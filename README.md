@@ -1,4 +1,4 @@
-#### 主打`Javascript`、`NodeJS` 💪
+#### `Javascript`、`NodeJS` 💪
 
 <!--
 **satrong/satrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
